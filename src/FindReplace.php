@@ -10,7 +10,7 @@
                 $output = str_replace($find, $replace, $user_string);
                 return $output;
             } else {
-                return $user_string;
+                return "Can't find word to replace.";
             }
         }
     }

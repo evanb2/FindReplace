@@ -1,0 +1,12 @@
+string: h find: h replace: u
+
+string: hello find: hello replace: goodbye
+
+1.Replacing words in a string with chosen word
+input string:"hello world" input find: world input replace: universe
+output:hello universe
+
+2.input_string:Hello world input_Find:world input_replace:universe
+output:Hello universe
+
+3.
